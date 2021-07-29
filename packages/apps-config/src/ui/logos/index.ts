@@ -89,7 +89,7 @@ import nodePangolin from './nodes/pangolin.svg';
 import nodeParami from './nodes/parami.png';
 import nodePhala from './nodes/phala.svg';
 import nodePhoenix from './nodes/phoenix.png';
-import nodePlasm from './nodes/plasm.png';
+import nodePlasm from './nodes/astar.png';
 import nodePolkaBTC from './nodes/polkabtc.png';
 import nodePolkadex from './nodes/polkadex.svg';
 import nodePolkadot from './nodes/polkadot-circle.svg';
