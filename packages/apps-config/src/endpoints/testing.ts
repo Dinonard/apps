@@ -117,7 +117,7 @@ export function createTesting (t: TFunction, firstOnly?: boolean): LinkOption[] 
       info: 'dusty',
       text: t('rpc.test.dusty', 'Dusty', { ns: 'apps-config' }),
       providers: {
-        'Stake Technologies': 'wss://rpc.dusty.plasmnet.io/'
+        'Stake Technologies': 'wss://dusty.astar.network/'
         // Pinknode: 'wss://rpc.pinknode.io/dusty/explorer' // https://github.com/polkadot-js/apps/issues/5721
       }
     },
