@@ -58,6 +58,14 @@ export const testParasRococo: EndpointOption[] = [
     }
   },
   {
+    info: 'rococoAstar',
+    paraId: 2006,
+    text: 'Astar (Rocstar)',
+    providers: {
+      'Astar Network': 'TODO'
+    }
+  },
+  {
     info: 'rococoDali',
     paraId: 2087,
     text: 'Dali',

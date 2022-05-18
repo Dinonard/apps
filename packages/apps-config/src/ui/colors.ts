@@ -248,6 +248,7 @@ export const chainColors: Record<string, string> = Object.entries({
   'Ares Odyssey': nodeOdyssey,
   'Ares PC1': chainRoccoAres,
   Astar: chainAstar,
+  'Astar (Rocstar)' : chainAstar,
   Automata: chainAutomata,
   'Automata ContextFree': chainAutomataContextFree,
   'Bajun Testnet': chainBajun,
